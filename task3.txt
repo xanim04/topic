@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <fieldset>
+        <legend>Personal Details</legend>
+        <form>
+            <span>
+                Salutation
+            </span>
+            <br>
+                <select>
+                    <option value="1">--None--</option>
+                </select>
+            
+            <br>
+            <br>
+            <label>
+                First Name:
+                <input type="text">
+            </label>
+            <br>
+            <br>
+            <label>
+                Last Name:
+                <input type="text">
+            </label>
+            <br>
+            <br>
+            <div>
+                <span>Gender:</span>
+                <label for="male">
+                    Male
+                    <input type="radio" name="gender" id="male">
+                </label>
+                <label for="female">
+                    Female
+                    <input type="radio" name="gender" id="female">
+                </label>
+            </div>
+            <br>
+            <label for="email">
+                Email:
+                <input type="email" id="email">
+            </label>
+            <br>
+            <br>
+            <label for="date">
+                Date of Birth:
+                <input type="date" id="date">
+            </label>
+            <br><br>
+            <span>Address:</span><br>
+            <textarea cols="30" rows="3"></textarea><br><br>
+            <button type="submit">Submit</button>
+        </form>
+    </fieldset>
+</body>
+
+</html>

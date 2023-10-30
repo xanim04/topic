@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>Xanim Valizada</title>
+</head>
+
+<body>
+   <h1>Student Bio</h1>
+   <hr>
+   <h2>Your Name</h2>
+
+
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Default_pfp.svg" width="250">
+   <p>About info:Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, eum numquam! Suscipit voluptas,
+      consequuntur veniam quasi dolor quo ducimus eveniet laborum alias incidunt cupiditate numquam at veritatis a
+      aperiam cumque!</p>
+   <h3 style="color: blueviolet;"><u>Contact Info</u></h3>
+   <ul>
+  <li> Email : <a href="mailto:velizadexanim62@gmail.com">velizadexanim62@gmail.com</a></li>
+
+   <li>Github: <a href="https://Github.com" target="_blank" rel="noopener noreferrer">Github</a></li>
+   
+   <li>Phone Number: <a href="tel:+994708798210">994708798210</a></li>
+   </ul>
+</body>
+
+</html>

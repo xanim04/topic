@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="https://nicepage.com/">
+    <input type="text" placeholder="Your name">
+    <br>
+    <input type="email" placeholder="Your email" required>
+    <br>
+    <input type="date">
+    <br>
+    <input type="password" placeholder="Your password">
+    <br>
+    <button type="button">send</button>
+    <button type="submit">submit</button>
+    <button type="reset">reset</button>
+    <br>
+    <select>
+        <option value="1">Azerbaijan</option>
+        <option value="2">USA</option>
+        <option value="3">Turkey</option>
+        <option value="4">Russia</option>
+    </select>
+   <textarea name="" id="" cols="30" rows="10"></textarea>
+    <textarea name="" id="" cols="30" rows="10"></textarea>
+    <br>
+    <textarea 
+    {resize:none} ></textarea>
+
+</form>
+</body>
+</html>
+
