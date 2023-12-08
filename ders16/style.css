@@ -1,0 +1,64 @@
+body{
+    color: white;
+    font-family:"Open Sans", sans-serif;
+}
+a{
+    color: white;
+}
+ul{
+    display: flex;
+    
+}
+.menu a{
+    padding: 5px 20px;
+    color: white;
+}
+header{
+    padding: 1.5rem 6rem;
+   
+   
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+}
+#intro{
+    height: 100vh;
+    background: url(./background.webp);
+    background-size: cover;
+    position: relative;
+}
+.overlay{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    position: absolute;
+}
+.Dropdown{
+    display: inline-block;
+    
+}
+#intro .content{
+    position: relative;
+    padding: 12rem;
+  
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+button{
+    background-color: white;
+    border-radius: 30px;
+    padding: 14px 20px;
+    border: 1px solid white;
+}
+.logo {
+    font-size: 24px;
+    color: #fff;
+    font-weight: 700;
+}
+span{
+    color: #0e49b5 !important;
+}
