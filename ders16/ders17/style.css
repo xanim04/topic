@@ -1,0 +1,59 @@
+.container{
+    max-width: 1200px;
+    width: 85%;
+    margin: auto;
+}
+h1{
+    font-size: 6rem;
+}
+.grid {
+    display: flex;
+}
+.box{
+    background-color: #eee;
+    padding: 5rem;
+    display: flex;
+   
+}
+.box1{
+    background-color: yellow;
+    padding: 3rem;
+    display: flex;
+}
+.num{
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: .85;
+}
+.btn{
+    margin-top: 6rem;
+}
+.img{
+    margin-top: 3rem;
+    display: flex;
+}
+img{
+    width: 100%;
+   
+}
+.btn4{
+    background-color: black;
+    color: white;
+}
+.img1{
+    width: 40%;
+    height: 10px;
+}
+
+.box:hover{
+    background-color: yellow;
+}
+.btn1:hover{
+    background-color: yellow;
+}
+.hover:hover{
+    background-color: yellow;
+}
+.item{
+    padding: 40px;
+}

@@ -47,6 +47,7 @@ header{
 h1{
     font-size: 50px;
     font-weight: 700;
+    margin-bottom: 10px;
 }
 button{
     background-color: white;
@@ -61,4 +62,10 @@ button{
 }
 span{
     color: #0e49b5 !important;
+}
+p{
+    margin-bottom: 10px;
+}
+.submenu{
+    display: none;
 }
