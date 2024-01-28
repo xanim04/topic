@@ -1,9 +1,12 @@
 //task1
 // let i = +prompt("2reqemli eded daxil et")
 // while (i<100) {
-//     console.log(i);
+//    if (i > 92) {
+//     break
+//    }
 //     i+=7
 // }
+// console.log(i);
 
 
 
@@ -72,3 +75,22 @@
 // console.log(reversedText);
 
 
+
+// let n = 10;
+// for(let i = 1; i<11; i++){
+//     console.log(`${i} * ${n} = ${n * i}`);
+// }
+
+
+//task6 
+// for(let n = 45; n > 0; n--){
+//     let count = 0;
+//     for(let j = n; j > 0; j--){
+//         if (n % j === 0) {
+//             count += 1;
+//         }
+//    }
+//    if (count === 2) {
+//     console.log(n);
+// }
+// } 
