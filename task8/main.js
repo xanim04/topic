@@ -31,10 +31,17 @@
 // showBalance(1200, 20)
 
 //task4
-function numberToText(number) {
-    let birlikler = ["bir", "iki", "uc", "dord", "bes", "alti", "yeddi", "sekkiz", "doqquz"];
-    let onluqlar = ["on", "iyirmi", "otuz", "qırx", "əlli", "altmış", "yetmiş", "səksən", "doxsan"];
-}
+// function teklik(num) {
+//     switch (key) {
+//         case "1":
+//             num = bir
+//         case 
+             
+//         default:
+//             break;
+//     }
+// }
+
 
 
 //task5
@@ -71,3 +78,14 @@ function numberToText(number) {
 //     console.log(result);
 // }
 // calc(4, 6, "+")
+
+
+// usersArr = ["sevinc", "Xanim", "huseyn", "Arif"]
+// for(i = 0; i < 4; i++){
+// console.log(usersArr[i]);
+// }
+
+
+
+
+
