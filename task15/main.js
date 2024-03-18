@@ -33,7 +33,7 @@ const data = [
     { "name": "TRON", "ticker": "TRX", "value": "0.020881", "change": "5.21%" }
 ];
 
-const table = document.getElementById("cryptoTable");
+const table = document.getElementById("table");
 const tbody = table.getElementsByTagName("tbody")[0];
 
 function createRow(data) {
