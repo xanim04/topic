@@ -90,3 +90,5 @@
 //task30
 //let value = "2009.12.19"
 //let valuarr = value.split(".")
+
+console.log("-9" - 5);

@@ -43,7 +43,11 @@
 // }
 
 
-
+if (condition) {
+    
+} else {
+    
+}
 //task5
 // function compareNum(a, b) {
 //     if (a > b) {
@@ -86,6 +90,8 @@
 // }
 
 
-
+function name(params) {
+    
+}
 
 
