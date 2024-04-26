@@ -1,11 +1,7 @@
-
-
-
 //task4
 // let array = [1, 6, 34, 5, 1, -4, 54, 76, 23, 65, 3, 50, 45, 100, 2346, -52, 6545, 0, 45, 22];
 // array.sort((a,b) => a - b)
 // console.log(array);
-
 
 
 // let person = {
@@ -20,11 +16,11 @@
 //         return 65 - person.age
 //     }
 // }
-// // console.log(birthday);
+// console.log(birthday);
 
-// // delete person.birthday
+// delete person.birthday
 
-
+ 
 
 // console.log(person.getYearsBeforeRetirement());
 
@@ -54,13 +50,57 @@
 
 
 
-let country = ["Azerbaijan", "Georgia", "Turkiye"]
-country.forEach((item, index) => {
-    console.log(item.);
-}
+// let country = ["Azerbaijan", "Georgia", "Turkiye"]
+// country.forEach((item, index) => {
+//     console.log(item.);
+// })
+// const result = country.split(3)
+// console.log(result);
+// const uppercase = result.toUpperCase()
+// for(i < 0 )
 
-)
-const result = country.split(3)
-console.log(result);
-const uppercase = result.toUpperCase()
-for(i < 0; )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let array = [1, 6, 34, 5, 1, -4, 54, 76, 23, 65, 3, 50, 45, 100, 2346, -52, 6545, 0, 45, 22];
+// array.sort((a,b) => a - b)
+// console.log(array);
+
+
+
+// function func(a, b) {
+//     if(a < b){
+//         return -1;
+//     }else if(a > b){
+//         return 1;
+//     }
+//     return 0;
+// }
+// console.log(func(3, 2));
+
+
+
+
+let goods = {}
+
+
+
+
+
+
+
+
+
+

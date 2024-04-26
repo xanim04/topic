@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    gap: 100px;
+    max-width: 800px;
+    margin: auto;
+}
+.img{
+    display: flex;
+    gap: 35px;
+}
+img{
+    width: 63px;
+    aspect-ratio: auto 63 / 63;
+    height: 63px;
+    border-radius: 8px;
+}
+.main{
+    width: 400px;
+    height: 400px;
+}
+.menfi, .musbet, .elli, .sneaker{
+    color: orangered;
+}
+.add{
+    background-color: orangered;
+    color: white;
+    border: orangered;
+    border-radius: 8px;
+}

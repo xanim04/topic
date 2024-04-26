@@ -1,0 +1,54 @@
+.container {
+    width: 70%;
+    max-width: 1140px;
+    margin-inline: auto;
+}
+
+input {
+    display: block;
+    margin-inline: auto;
+    width: 250px;
+    margin-block: 40px;
+    padding: 10px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 0 5px 0px rgb(11, 11, 11);
+}
+
+todos {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+}
+
+todo {
+    box-shadow: 0 0 5px 1px black;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.completed {
+    background-color: violet;
+    color: #fff;
+    text-decoration: line-through;
+}
+
+pag button {
+    cursor: pointer;
+    background-color: transparent;
+    color:  #a057bb;
+    border: 1px solid  #a057bb;
+    border-radius: 5px;
+    font-size: 17px;
+    padding: 10px 20px;
+    
+}
+
+button.active{
+    background-color: #a057bb;
+    color: #fff;
+}

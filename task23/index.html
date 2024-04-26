@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div>
+        <div  class="main-img">
+        <img src="image/image-product-1 (1).jpg" class="main">
+        </div>
+        <div class="img">
+            <img onclick="slider('image/image-product-1 (1).jpg')" src="image/image-product-1 (1).jpg">
+            <img onclick="slider('image/image-product-2.jpg')" src="image/image-product-2.jpg">
+            <img onclick="slider('image/image-product-3.jpg')" src="image/image-product-3.jpg">
+            <img onclick="slider('image/image-product-4.jpg')" src="image/image-product-4.jpg">
+        </div>
+    </div>
+    <div>
+        <p class="sneaker">Sneaker company</p>
+        <h3>Fall limited Edition Sneakers</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae id, architecto magnam unde recusandae quo
+            nostrum illum mollitia ea doloremque sunt saepe. Iure delectus, provident odio quaerat id laudantium
+            eveniet?</p>
+            <div>$125.00
+                <span class="elli">50%</span>
+            </div>
+            <div>$250.00</div>
+            <div>
+               
+                <button class="menfi"  onclick="decrease()">-</button>
+                <span class="sifir">0</span>
+                <button class="musbet"  onclick="increase()">+</button>
+                <button class="add">Add to cart</button>
+            </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
