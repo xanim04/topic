@@ -1,0 +1,7 @@
+.book{
+    border: 1px solid black;
+    width: fit-content;
+    box-shadow: 0 0 5px 1px;
+    margin: 10px;
+    padding: 30px;
+}

@@ -4,8 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
-.name{
-  color: aqua;
+.class{
+  background-color: black;
+  padding: 30px;
+  color: aliceblue;
 }
 .logo {
   height: 6em;
