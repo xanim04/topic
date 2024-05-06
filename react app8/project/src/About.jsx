@@ -1,6 +1,6 @@
 function About() {
     return(
-        <section>lkkml</section>
+        <section>About:</section>
     )
 }
 
